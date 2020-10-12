@@ -1,4 +1,4 @@
-# Bioinformatics, genomics and computational biology learning resources
+# Learning resources for bioinformatics, genomics and computational biology
 
 ## General programming and command line
 
