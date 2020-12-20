@@ -66,6 +66,7 @@
 - https://github.com/quinlan-lab/applied-computational-genomics
 - https://github.com/BenLangmead/comp-genomics-class
 - EMBL-ABR training videos: https://www.youtube.com/channel/UC5WlFNBSfmt3e8Js8o2fFqQ/videos
+- [BE/Bi 103 a: Introduction to Data Analysis in the Biological Sciences (Caltech)](https://bebi103a.github.io/index.html)
 
 
 #### RNA-seq
