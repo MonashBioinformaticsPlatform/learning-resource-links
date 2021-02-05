@@ -2,8 +2,8 @@
 
 ## General programming and command line
 
-> In the wet lab, you might need to learn to pipette, use a centrifuge, or maybe run some electrophoresis before you can get useful results.
-> In the dry lab, you need to learn to use a computer to automate tasks and analyse data before you can get useful results - often this means telling the computer what to do using text.
+> In the wet lab, you might need to learn to pipette, use a centrifuge, or maybe run some gel electrophoresis before you can get useful results.
+> In the dry lab, you need to learn to use a computer to automate tasks and analyse data before you can get useful results - often this means telling the computer what to do using plain text.
 
 ### Linux, the "shell", command line
 
@@ -49,6 +49,7 @@
 - Intro to Python: http://introtopython.org/
 - Introduction to Data Processing with Python: http://opentechschool.github.io/python-data-intro/
 - Python for Everyone (Basic introductory material, through to object oriented programming, interaction with web services, databases, plotting) https://www.py4e.com/lessons
+- [BE/Bi 103 a: Introduction to Data Analysis in the Biological Sciences (Caltech)](https://bebi103a.github.io/index.html) - Data Science for Biology, with statistics and visualisation in Python
 
 #### Advanced Python
 
@@ -62,12 +63,17 @@
 
 ## General Bioinformatics and Computational Biology
 
-- http://rosalind.info/problems/locations/ - problem solving exercises in computational biology to learn the fundamentals
-- https://github.com/quinlan-lab/applied-computational-genomics
-- https://github.com/BenLangmead/comp-genomics-class
 - EMBL-ABR training videos: https://www.youtube.com/channel/UC5WlFNBSfmt3e8Js8o2fFqQ/videos
-- [BE/Bi 103 a: Introduction to Data Analysis in the Biological Sciences (Caltech)](https://bebi103a.github.io/index.html)
 
+#### Theory
+
+- [Rosalind](http://rosalind.info/problems/locations/) - problem solving exercises in computational biology to learn the fundamentals
+- [JHU Computational Genomics notebooks](https://github.com/BenLangmead/comp-genomics-class) - in depth code examples to help understand how genome short read alignment and assembly works. Burrows-Wheeler Transforms and de Bruijn graphs.
+
+#### Genomics on the commandline
+
+- [Data Carpentry Genomics Workshop](https://datacarpentry.org/genomics-workshop/) - a great starting point for learning genomics on the commandline.
+- [Computational Genomics Tutorial](https://genomics.sschmeier.com/index.html) - based on the Massey University Genome Science course taught by Sebastian Schmeier. A very clear tutorial series that covers installing and running tools for doing NGS read quality control, genome assembly and mapping, annotation, variant calling and interpretation. Light on theory, but a good starting point for working through the mechanics of genomics on the commandline.
 
 #### RNA-seq
 
