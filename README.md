@@ -50,6 +50,7 @@
 - Introduction to Data Processing with Python: http://opentechschool.github.io/python-data-intro/
 - Python for Everyone (Basic introductory material, through to object oriented programming, interaction with web services, databases, plotting) https://www.py4e.com/lessons
 - [BE/Bi 103 a: Introduction to Data Analysis in the Biological Sciences (Caltech)](https://bebi103a.github.io/index.html) - Data Science for Biology, with statistics and visualisation in Python
+- [Programming in the Biological Sciences Bootcamp notes](http://justinbois.github.io/bootcamp/2020/index.html) (Caltech) - a comprehensive introduction to Python programming, with some Pandas, Numpy, Scipy and git thrown in for good measure.
 
 #### Advanced Python
 
