@@ -61,6 +61,10 @@
 - Metaclasses: http://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example and https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
 - Understanding scope, closures: https://www.farside.org.uk/201307/understanding_python_scope 
 
+## Visualization
+
+- Introductory interactive visualization using Altair (University of Washington): https://uwdata.github.io/visualization-curriculum/intro.html
+
 
 ## General Bioinformatics and Computational Biology
 
