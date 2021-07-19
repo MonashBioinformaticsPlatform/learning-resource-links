@@ -79,6 +79,7 @@
 
 - [Data Carpentry Genomics Workshop](https://datacarpentry.org/genomics-workshop/) - a great starting point for learning genomics on the commandline.
 - [Computational Genomics Tutorial](https://genomics.sschmeier.com/index.html) - based on the Massey University Genome Science course taught by Sebastian Schmeier. A very clear tutorial series that covers installing and running tools for doing NGS read quality control, genome assembly and mapping, annotation, variant calling and interpretation. Light on theory, but a good starting point for working through the mechanics of genomics on the commandline.
+- [Sanger Pathogen Informatics Training](https://github.com/sanger-pathogens/pathogen-informatics-training) - commandline tutorials covering various analysis on microbial pathogens. Structured as a series of notebooks to follow, [starting here](https://github.com/sanger-pathogens/pathogen-informatics-training/blob/master/Notebooks/index.ipynb).
 
 #### RNA-seq
 
