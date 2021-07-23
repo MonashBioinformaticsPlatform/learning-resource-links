@@ -69,6 +69,8 @@
 ## General Bioinformatics and Computational Biology
 
 - EMBL-ABR training videos: https://www.youtube.com/channel/UC5WlFNBSfmt3e8Js8o2fFqQ/videos
+- Bioinformatics Workbook: https://bioinformaticsworkbook.org/#gsc.tab=0
+- SequenceEng - resource of most seq applications and analysis pipeline: http://education.knoweng.org/sequenceng/
 
 #### Theory
 
