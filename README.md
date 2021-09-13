@@ -98,3 +98,9 @@
 - https://github.com/MaayanLab/intro-rnaseq-jupyter
 - https://newonlinecourses.science.psu.edu/stat555/node/78/
 - https://mikelove.github.io/counts-model/index.html
+
+#### Functional Enrichment Analysis 
+Papers that could be of interest for functional enrichment analysis. 
+
+- https://www.frontiersin.org/articles/10.3389/fgene.2020.00654/full 
+- http://ziemann-lab.net/public/kaumadi/manuscript.html
