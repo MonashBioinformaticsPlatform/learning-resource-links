@@ -99,6 +99,10 @@
 - https://newonlinecourses.science.psu.edu/stat555/node/78/
 - https://mikelove.github.io/counts-model/index.html
 
+#### Metagenomics
+
+- [Data processing and visualization for metagenomics](https://carpentries-incubator.github.io/metagenomics/index.html) - a Carpentries workshop in incubation. May have some rough edges, but it's already looking quite good.
+
 #### Functional Enrichment Analysis 
 Papers that could be of interest for functional enrichment analysis. 
 
