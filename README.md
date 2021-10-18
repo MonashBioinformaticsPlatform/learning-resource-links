@@ -64,7 +64,7 @@
 ## Visualization
 
 - Introductory interactive visualization using Altair (University of Washington): https://uwdata.github.io/visualization-curriculum/intro.html
-
+- PCA for Data Science: https://pca4ds.github.io/
 
 ## General Bioinformatics and Computational Biology
 
