@@ -85,6 +85,7 @@
 
 #### RNA-seq
 
+- [Introduction to differential gene expression analysis using RNA-seq (Dündar, Skrabanek, Zumbo @ Cornell)](https://doi.org/10.5281/zenodo.3985046) - a very nice RNA-seq overview and tutorial, from RNA extraction and experimental design to differential gene expression analysis, with Unix commandline and R exercises.
 - A big list of RNASeq links - nicely organized into sections like 'normalization' and 'batch effects': https://github.com/crazyhottommy/RNA-seq-analysis
 - http://master.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html
 - https://diytranscriptomics.com/ - largely video-based tutorial series for learning RNA-seq analysis using R.
