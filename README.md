@@ -9,7 +9,7 @@
 
 - https://linuxjourney.com/
 - https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1
-- http://rik.smith-unna.com/command_line_bootcamp -  an interactive command line tutorial in the browser
+- https://cli-boot.camp/ -  an interactive command line tutorial in the browser
 - https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/ls
 - http://andrewjrobinson.github.io/training_docs/tutorials/unix/
 - http://andrewjrobinson.github.io/training_docs/tutorials/hpc/
