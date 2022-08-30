@@ -28,7 +28,7 @@
 - Code School: Try R: http://tryr.codeschool.com/
 - R programming - coursera: https://www.coursera.org/course/rprog
 - Data Carpentry R lessons: https://datacarpentry.org/R-ecology-lesson/ and https://datacarpentry.org/genomics-r-intro/
-
+- [StatsTest](https://www.statstest.com/) - which statistical test should you use ?
 
 #### Advanced R
 
