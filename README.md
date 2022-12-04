@@ -53,8 +53,8 @@
 
 #### Advanced Python
 
-- Magic methods, context managers (__enter__, __exit__ for 'with' and more !): http://www.rafekettler.com/magicmethods.html
-- @property decorators, Descriptors: http://intermediatepythonista.com/classes-and-objects-ii-descriptors
+- Magic methods, context managers (__enter__, __exit__ for 'with' and more !): https://web.archive.org/web/20161024123835/http://www.rafekettler.com/magicmethods.html
+- @property decorators, Descriptors: https://web.archive.org/web/20150407105027/http://intermediatepythonista.com/classes-and-objects-ii-descriptors
 - @staticmethod, @classmethod and @abc.abstractmethod
 - https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods
 - Metaclasses: http://eli.thegreenplace.net/2011/08/14/python-metaclasses-by-example and https://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python
