@@ -13,6 +13,10 @@
 - http://andrewjrobinson.github.io/training_docs/tutorials/unix/
 - http://andrewjrobinson.github.io/training_docs/tutorials/hpc/
 
+### Git
+
+- https://learngitbranching.js.org/ - a visual, interactive tutorial to help you understand Git
+
 ### R
 
 #### Introductory R
