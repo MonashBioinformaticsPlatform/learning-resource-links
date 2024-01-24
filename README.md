@@ -92,7 +92,7 @@
 - A big list of RNASeq links - nicely organized into sections like 'normalization' and 'batch effects': https://github.com/crazyhottommy/RNA-seq-analysis
 - http://master.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html
 - https://diytranscriptomics.com/ - largely video-based tutorial series for learning RNA-seq analysis using R.
-- http://bioinf.wehi.edu.au/RNAseqCaseStudy/
+- [Case study: using a Bioconductor R pipeline to analyze RNA-seq data](https://web.archive.org/web/20210920045824/http://bioinf.wehi.edu.au/RNAseqCaseStudy/)
 - https://www.ebi.ac.uk/training/online/course/ebi-next-generation-sequencing-practical-course/rna-sequencing/rna-seq-analysis-transcripto-0
 - RNASeq tutorial from UOregon: https://github.com/griffithlab/rnaseq_tutorial/wiki
 - http://www.ngscourse.org/Course_Materials/alignment/tutorial/example.html
