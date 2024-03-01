@@ -9,7 +9,6 @@
 
 - https://linuxjourney.com/
 - https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1
-- https://cli-boot.camp/ -  an interactive command line tutorial in the browser
 - http://andrewjrobinson.github.io/training_docs/tutorials/unix/
 - http://andrewjrobinson.github.io/training_docs/tutorials/hpc/
 
