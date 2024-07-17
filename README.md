@@ -86,22 +86,28 @@
 - [Computational Genomics Tutorial](https://genomics.sschmeier.com/index.html) - based on the Massey University Genome Science course taught by Sebastian Schmeier. A very clear tutorial series that covers installing and running tools for doing NGS read quality control, genome assembly and mapping, annotation, variant calling and interpretation. Light on theory, but a good starting point for working through the mechanics of genomics on the commandline.
 - [Sanger Pathogen Informatics Training](https://github.com/sanger-pathogens/pathogen-informatics-training) - commandline tutorials covering various analysis on microbial pathogens. Structured as a series of notebooks to follow, [starting here](https://github.com/sanger-pathogens/pathogen-informatics-training/blob/master/Notebooks/index.ipynb).
 
-#### RNA-seq
+#### RNA-seq (bulk)
 
+Some of these tutorials and guides start with raw FASTQ reads, through to differential expression analysis. Others begin with the counts matrix.
+
+- [Sydney informatics hub RNAseq tutorial 2023](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/) - starting from raw reads with nf-core/rnaseq, through to differential expression analysis with R & DESeq2, and functional enrichment.
 - [Introduction to differential gene expression analysis using RNA-seq (Dündar, Skrabanek, Zumbo @ Cornell)](https://doi.org/10.5281/zenodo.3985046) - a very nice RNA-seq overview and tutorial, from RNA extraction and experimental design to differential gene expression analysis, with Unix commandline and R exercises.
+- [RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://f1000research.com/articles/5-1408/v3) - Law _et al_, 2016 - a good practical tutorial for edgeR and limma, starting from a counts matrix.
+- [From reads to genes to pathways: differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline](https://f1000research.com/articles/5-1438/v2)
 - A big list of RNASeq links - nicely organized into sections like 'normalization' and 'batch effects': https://github.com/crazyhottommy/RNA-seq-analysis
 - http://master.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html
-- https://diytranscriptomics.com/ - largely video-based tutorial series for learning RNA-seq analysis using R.
+- [https://diytranscriptomics.com/](https://diytranscriptomics.com/) - largely video-based tutorial series for learning RNA-seq analysis using R.
+- Harvard Chan core [RNA-seq beginner](https://github.com/hbctraining/rnaseq_overview) and [Salmon+DESeq2](https://hbctraining.github.io/DGE_workshop_salmon_online/schedule/links-to-lessons.html) courses
 - [Case study: using a Bioconductor R pipeline to analyze RNA-seq data](https://web.archive.org/web/20210920045824/http://bioinf.wehi.edu.au/RNAseqCaseStudy/)
 - https://www.ebi.ac.uk/training/online/course/ebi-next-generation-sequencing-practical-course/rna-sequencing/rna-seq-analysis-transcripto-0
 - RNASeq tutorial from UOregon: https://github.com/griffithlab/rnaseq_tutorial/wiki
 - http://www.ngscourse.org/Course_Materials/alignment/tutorial/example.html
-- https://f1000research.com/articles/5-1408/v2: RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR
 - COMBINE- http://combine-australia.github.io/RNAseq-R/ 
 - http://www.rnaseqforthenextgeneration.org/protocols/index.htm
 - https://github.com/MaayanLab/intro-rnaseq-jupyter
 - https://newonlinecourses.science.psu.edu/stat555/node/78/
 - https://mikelove.github.io/counts-model/index.html
+
 
 #### Metagenomics
 
