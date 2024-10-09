@@ -1,5 +1,9 @@
 # Learning resources for bioinformatics, genomics and computational biology
 
+[Glittr](https://glittr.org/) - a large searchable community database of git repositories with bioinformatics training material
+
+[DReSA](https://dresa.org.au/) - Digital Research Skills Australasia - an active database of training material and national workshop events
+
 ## General programming and command line
 
 > In the wet lab, you might need to learn to pipette, use a centrifuge, or maybe run some gel electrophoresis before you can get useful results.
