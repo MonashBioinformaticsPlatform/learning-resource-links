@@ -4,6 +4,12 @@
 
 [DReSA](https://dresa.org.au/) - Digital Research Skills Australasia - an active database of training material and national workshop events
 
+## Other Monash groups and pages
+
+- [Monash eResearch training page](https://docs.erc.monash.edu/training)
+
+- [Monash NUMBATs R workshops](https://numbat.space/workshops/)
+
 ## General programming and command line
 
 > In the wet lab, you might need to learn to pipette, use a centrifuge, or maybe run some gel electrophoresis before you can get useful results.
@@ -27,26 +33,24 @@
 
 - [Introduction to R](https://monashdatafluency.github.io/r-intro-2/) is our recommended starting point.
 
-- [Programming and Tidy Data analysis in R](https://monashdatafluency.github.io/r-progtidy/) covers automatic tasks such as loading a set of files, as well as data wrangly using "tidy" methods.
+- [Programming and Tidy Data analysis in R](https://monashdatafluency.github.io/r-progtidy/) covers automating tasks such as loading a large set of files, as well as data wrangling using "tidy" methods.
 
 - [Linear models in R](https://monashdatafluency.github.io/r-linear/) covers many common statistic tasks in a unified way using "linear models". This will also be useful background knowledge for RNA-Seq analysis, especially with complex experimental designs.
 
 - [Introduction to R Shiny](https://monashdatafluency.github.io/R-ShinyIntro/) covers presentation of your data interactively.
 
-The NUMBATs group at Monash is also developing [R workshops](https://numbat.space/workshops/).
+- [Working with DNA sequences and features in R with Bioconductor](https://monashdatafluency.github.io/r-bioc-2/)
+
 
 #### Introductory R
 
-- Rmarkdown: https://rmarkdown.rstudio.com/authoring_quick_tour.html
-- [Introduction to R - Tidyverse](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/)
-- The R for data science ‘wrangling’ section for a detailed reference https://r4ds.had.co.nz/wrangle-intro.html
-- Another Tidyverse tutorial: http://www.hiercourse.com/docs/Working_in_the_Tidyverse.pdf
-
-- Making plots (examples) : http://www.statmethods.net/graphs/index.html
-- Code School: Try R: http://tryr.codeschool.com/
+- [Introduction to R - Tidyverse](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/), a workshop developed at WEHI.
+- [The R for Data Science book](https://r4ds.hadley.nz/) is a popular book covering the tidy approach.
+- [Posit Cloud](https://posit.cloud/) to try R and RStudio online.
 - R programming - coursera: https://www.coursera.org/course/rprog
 - Data Carpentry R lessons: https://datacarpentry.org/R-ecology-lesson/ and https://datacarpentry.org/genomics-r-intro/
-- [StatsTest (Wayback Machine archive)](https://web.archive.org/web/20241117181954/https://www.statstest.com/) - which statistical test should you use ?
+- It's often useful to generate reports including code and outputs, either using [RMarkdown](https://rmarkdown.rstudio.com/authoring_quick_tour.html) or the newer [Quarto system](https://quarto.org/docs/computations/r.html).
+- [StatsTest (Wayback Machine archive)](https://web.archive.org/web/20241117181954/https://www.statstest.com/) - which statistical test should you use?
 
 #### Advanced R
 
@@ -127,14 +131,20 @@ Some of these tutorials and guides start with raw FASTQ reads, through to differ
 
 #### RNA-seq (single cell)
 
-- [MGBP developed single cell RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/scRNAseq_Workshop_ABACBS_2024/)
+- [MGBP single cell RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/scRNAseq_Workshop_ABACBS_2024/)
 
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) covers the Bioconductor way of doing single cell. But many people prefer to use [Seurat](https://satijalab.org/seurat/) instead. Seurat also has many useful vignettes.
 
 #### Metagenomics
 
 - [Data processing and visualization for metagenomics](https://carpentries-incubator.github.io/metagenomics/index.html) - a Carpentries workshop in incubation. May have some rough edges, but it's already looking quite good.
 
-#### Functional Enrichment Analysis 
+- [Orchestrating Microbiome Analysis](https://microbiome.github.io/OMA/docs/devel/) covers the Bioconductor way of doing microbiome analysis.
+
+#### Functional Enrichment Analysis
+
+- [MGBP + Sydney Informatics Hub functional enrichment workshop (2024)](https://monashbioinformaticsplatform.github.io/Functional_Enrichment_BioCommons_2024/)
+
 Papers that could be of interest for functional enrichment analysis. 
 
 - Null hypothesis in GSEA https://www.frontiersin.org/articles/10.3389/fgene.2020.00654/full 
