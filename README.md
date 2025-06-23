@@ -23,11 +23,21 @@
 
 ### R
 
+#### MGBP developed R workshops
+
+- [Introduction to R](https://monashdatafluency.github.io/r-intro-2/) is our recommended starting point.
+
+- [Programming and Tidy Data analysis in R](https://monashdatafluency.github.io/r-progtidy/) covers automatic tasks such as loading a set of files, as well as data wrangly using "tidy" methods.
+
+- [Linear models in R](https://monashdatafluency.github.io/r-linear/) covers many common statistic tasks in a unified way using "linear models". This will also be useful background knowledge for RNA-Seq analysis, especially with complex experimental designs.
+
+- [Introduction to R Shiny](https://monashdatafluency.github.io/R-ShinyIntro/) covers presentation of your data interactively.
+
+The NUMBATs group at Monash is also developing [R workshops](https://numbat.space/workshops/).
+
 #### Introductory R
 
-- Intro R : https://monashdatafluency.github.io/r-intro-2/
 - Rmarkdown: https://rmarkdown.rstudio.com/authoring_quick_tour.html
-- R-more training material - a follow on from intro R - https://monashbioinformaticsplatform.github.io/r-more/
 - [Introduction to R - Tidyverse](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/)
 - The R for data science ‘wrangling’ section for a detailed reference https://r4ds.had.co.nz/wrangle-intro.html
 - Another Tidyverse tutorial: http://www.hiercourse.com/docs/Working_in_the_Tidyverse.pdf
@@ -94,10 +104,13 @@
 
 Some of these tutorials and guides start with raw FASTQ reads, through to differential expression analysis. Others begin with the counts matrix.
 
+- [MGBP RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/RNAseq_workshop_2024/)
+
 - [Sydney informatics hub RNAseq tutorial 2023](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/) - starting from raw reads with nf-core/rnaseq, through to differential expression analysis with R & DESeq2, and functional enrichment.
 - [Introduction to differential gene expression analysis using RNA-seq (Dündar, Skrabanek, Zumbo @ Cornell)](https://doi.org/10.5281/zenodo.3985046) - a very nice RNA-seq overview and tutorial, from RNA extraction and experimental design to differential gene expression analysis, with Unix commandline and R exercises.
 - [RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://f1000research.com/articles/5-1408/v3) - Law _et al_, 2016 - a good practical tutorial for edgeR and limma, starting from a counts matrix.
 - [From reads to genes to pathways: differential expression analysis of RNA-Seq experiments using Rsubread and the edgeR quasi-likelihood pipeline](https://f1000research.com/articles/5-1438/v2)
+- [A guide to creating design matrices for gene expression experiments](https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/designmatrices.html)
 - A big list of RNASeq links - nicely organized into sections like 'normalization' and 'batch effects': https://github.com/crazyhottommy/RNA-seq-analysis
 - http://master.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html
 - [https://diytranscriptomics.com/](https://diytranscriptomics.com/) - largely video-based tutorial series for learning RNA-seq analysis using R.
@@ -111,6 +124,10 @@ Some of these tutorials and guides start with raw FASTQ reads, through to differ
 - https://github.com/MaayanLab/intro-rnaseq-jupyter
 - https://newonlinecourses.science.psu.edu/stat555/node/78/
 - https://mikelove.github.io/counts-model/index.html
+
+#### RNA-seq (single cell)
+
+- [MGBP developed single cell RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/scRNAseq_Workshop_ABACBS_2024/)
 
 
 #### Metagenomics
