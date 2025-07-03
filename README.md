@@ -33,9 +33,9 @@
 
 - [Introduction to R](https://monashdatafluency.github.io/r-intro-2/) is our recommended starting point.
 
-- [Programming and Tidy Data analysis in R](https://monashdatafluency.github.io/r-progtidy/) covers automating tasks such as loading a large set of files, as well as data wrangling using "tidy" methods.
+- [Programming and Tidy Data analysis in R](https://monashdatafluency.github.io/r-progtidy/) covers automating tasks such as loading a large set of files, as well as data wrangling and how "tidy" data streamlines visualization and data analysis.
 
-- [Linear models in R](https://monashdatafluency.github.io/r-linear/) covers many common statistic tasks in a unified way using "linear models". This will also be useful background knowledge for RNA-Seq analysis, especially with complex experimental designs.
+- [Linear models in R](https://monashdatafluency.github.io/r-linear/) covers many common statistical tasks in a unified way using "linear models". This will also be useful background knowledge for RNA-Seq analysis, especially with complex experimental designs.
 
 - [Introduction to R Shiny](https://monashdatafluency.github.io/R-ShinyIntro/) covers presentation of your data interactively.
 
@@ -50,7 +50,7 @@
 - R programming - coursera: https://www.coursera.org/course/rprog
 - Data Carpentry R lessons: https://datacarpentry.org/R-ecology-lesson/ and https://datacarpentry.org/genomics-r-intro/
 - It's often useful to generate reports including code and outputs, either using [RMarkdown](https://rmarkdown.rstudio.com/authoring_quick_tour.html) or the newer [Quarto system](https://quarto.org/docs/computations/r.html).
-- [StatsTest (Wayback Machine archive)](https://web.archive.org/web/20241117181954/https://www.statstest.com/) - which statistical test should you use?
+- [StatsTest (Wayback Machine archive)](https://web.archive.org/web/20241117181954/https://www.statstest.com/) - which statistical test should you use? (Paul's comment: Don't be overwhelmed, learn to use linear models. Linear models provide a systematic way of thinking about the factors and variables in your experiment, and how they translate into a statistical model and tests. Then if the assumptions aren't quite met for using a linear model, consider one of the specialized methods listed in this page.)
 
 #### Advanced R
 
