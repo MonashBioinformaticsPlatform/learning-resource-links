@@ -131,7 +131,7 @@ Some of these tutorials and guides start with raw FASTQ reads, through to differ
 
 #### RNA-seq (single cell)
 
-- [MGBP single cell RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/scRNAseq_Workshop_ABACBS_2024/)
+- [MGBP single cell RNA-Seq workshop](https://monashbioinformaticsplatform.github.io/scRNAseq_Workshop/)
 
 - [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) covers the Bioconductor way of doing single cell. But many people prefer to use [Seurat](https://satijalab.org/seurat/) instead. Seurat also has many useful vignettes.
 
