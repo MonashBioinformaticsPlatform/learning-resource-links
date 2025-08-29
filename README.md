@@ -108,7 +108,7 @@
 
 Some of these tutorials and guides start with raw FASTQ reads, through to differential expression analysis. Others begin with the counts matrix.
 
-- [MGBP RNA-Seq workshop (2024)](https://monashbioinformaticsplatform.github.io/RNAseq_workshop_2024/)
+- [MGBP RNA-Seq workshop](https://monashbioinformaticsplatform.github.io/RNAseq_workshop/)
 
 - [Sydney informatics hub RNAseq tutorial 2023](https://sydney-informatics-hub.github.io/rnaseq-workshop-2023/) - starting from raw reads with nf-core/rnaseq, through to differential expression analysis with R & DESeq2, and functional enrichment.
 - [Introduction to differential gene expression analysis using RNA-seq (Dündar, Skrabanek, Zumbo @ Cornell)](https://doi.org/10.5281/zenodo.3985046) - a very nice RNA-seq overview and tutorial, from RNA extraction and experimental design to differential gene expression analysis, with Unix commandline and R exercises.
