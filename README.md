@@ -97,6 +97,7 @@
 
 - [Rosalind](http://rosalind.info/problems/locations/) - problem solving exercises in computational biology to learn the fundamentals
 - [JHU Computational Genomics notebooks](https://github.com/BenLangmead/comp-genomics-class) - in depth code examples to help understand how genome short read alignment and assembly works. Burrows-Wheeler Transforms and de Bruijn graphs.
+- [Modern Statistics for Modern Biology (Holmes and Huber, 2019)](https://www.huber.embl.de/msmb/) - practical book covering statistical approaches commonly used in biology.
 
 #### Genomics on the commandline
 
